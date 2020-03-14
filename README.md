@@ -1,0 +1,2 @@
+# NBF
+new BetterFuture();
